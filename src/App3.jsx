@@ -20,6 +20,8 @@ export default function App(){
             <h2 className="custom-heading">Login to the Portal</h2>
             <Footer />
             <Form   />
+            {/* three components,one heading */}
+
           
          
           
