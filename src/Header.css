@@ -1,0 +1,34 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #2479b2; /* Blue color */
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.logo img {
+  width: 25px; /* Set the desired width for your logo */
+  height: auto; /* Automatically adjust height to maintain aspect ratio */
+}
+
+.title {
+  font-size: 32px; /* Larger font size for the title */
+  font-weight: bold;
+  margin-left: -1000px;
+}
+
+.nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: white;
+  transition: color 0.3s ease;
+}
+
+.nav a:hover {
+  color: #f39c12; /* Change to your desired hover color */
+}

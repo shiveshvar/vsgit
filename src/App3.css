@@ -1,0 +1,15 @@
+/* App.css */
+.custom-heading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; /* Adjust the height as needed */
+    
+  }
+  
+.custom-heading {
+  font-size: 24px;
+  color: #333;
+  margin: 150px 650px;
+  
+}

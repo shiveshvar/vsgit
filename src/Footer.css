@@ -1,0 +1,21 @@
+/* Footer.css */
+/* Footer.css */
+.footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  .footer-content {
+    margin-left: 20px; /* Adjust this margin as needed */
+  }
+  
